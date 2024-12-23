@@ -1,0 +1,208 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    background-color: #07081A;;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 1px solid #261C51;
+    margin-top: 10px;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    border-top: 1px solid #261C51;
+    margin-top: 88px;
+}
+
+#first {
+    width: 1040px;
+    height: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#cloudo {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 7px;
+}
+
+#home {
+    color: #B968DE;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.classwhite {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    cursor: pointer;
+}
+
+.box {
+    display: flex;
+    gap: 16px;
+}
+
+.flex {
+    display: flex;
+    gap: 12px;
+}
+
+#width {
+    max-width: 600px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+#Accelerate {
+    color: #FFF;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 52px;
+}
+
+#Our {
+    color: #C0C0C0;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-top: 20px;
+}
+
+
+#download {
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    background: #9100D3;
+
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#color {
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    margin-top: 88px;
+    
+}
+
+.images {
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+}
+
+.font {
+    color: #FFF;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+#lol {
+    display: flex;
+    width: 1040px;
+    align-items: center;
+    gap: 64px;
+    margin-top: 88px;
+}
+
+.supports {
+    display: flex;
+    padding: 16px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 8px;
+    border: 1px solid #261C51;
+    justify-content: center;
+}
+
+.language {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+.choice {
+    color: #C0C0C0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+#rights {
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+
+#reserved {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 500px;
+}
+
+#photo7 {
+    cursor: pointer;
+}
